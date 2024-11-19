@@ -4,5 +4,5 @@
 
 *Texto en cursiva*
 
-'Codigo fuente'
-'echo a > archivito.txt'
+`Codigo fuente`
+`echo a > archivito.txt`
